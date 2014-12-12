@@ -2,5 +2,6 @@ test-repo
 =========
 
 My first repo
-- test 1
-- test 2
+- Test 1
+- Test 2
+- Test 3
